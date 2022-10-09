@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Çağdaş BODUR.
-- 👀 I’m interested in cybersecurity.
+- 👀 I’m interested in cybersecurity especially 
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
