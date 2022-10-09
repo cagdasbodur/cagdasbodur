@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Çağdaş BODUR.
-- 👀 I’m interested in cybersecurity especially 
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 👋 Hi, I’m Çağdaş Bodur.
+- 👀 I’m interested in cybersecurity.
+- 🌱 I’m currently learning Python.
+- 📫 How to reach me  https://www.linkedin.com/in/cagdasbodur
 
 <!---
 cagdasbodur/cagdasbodur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
